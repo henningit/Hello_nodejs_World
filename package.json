@@ -1,0 +1,21 @@
+{
+    "name": "Hello_nodejs_World",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./Hello_nodejs_World.js",
+    "author": {
+        "name": "Henning Dudat",
+        "email": "henning.dudat@web.de"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/Hello_nodejs_World.git"
+    },
+    "bugs": {
+        "url": "http://github.com/YOUR_LOGIN/Hello_nodejs_World/issues"
+    }
+}
